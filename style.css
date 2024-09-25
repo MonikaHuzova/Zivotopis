@@ -1,0 +1,80 @@
+h1
+ {
+    color: #1a1616; 
+    font-size: 50px;
+    text-transform: uppercase;
+    float: left;
+
+} 
+
+h3 {
+    color: #594d49;
+}
+
+h4 {
+    color: #a29f9c;
+}
+
+a{
+    color: #eaceb4
+}
+
+body{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: serif;
+    
+
+    
+}
+
+a{
+    font-style: italic;
+}
+
+header {
+    background-color: #e4d1d3;  
+}
+
+.clear {
+    clear: both;
+}
+
+h2{
+    background-color:#e4d1d3;  
+    padding: 5px;
+}
+
+.foto-monikahuzova{
+    width: 200px;
+    border-radius: 50%;
+    float: right;
+    margin: 2%;
+}
+
+footer{
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+    clear: both;
+}
+
+.vlevo { 
+    float: left;
+    width: 44%;
+    padding: 3%;
+}
+.vpravo {
+    float: right;
+    width: 44%;
+    padding: 3%;
+}
+
+h3,
+h4{
+    margin: 0%;
+}
+
+a:hover {
+    color:#e4d1d3;
+}
